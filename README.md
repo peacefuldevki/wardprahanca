@@ -2,7 +2,7 @@
 
 I’m currently learning Javascript, React and trying Hotwire and Stimulus with Ruby on Rails 🤖
 
-🤝For now, I’m looking to collaborate on any Ruby on Rails project, part-time/full-time contracts or just tasks in order to boost your bussiness and help you out with saving precious time. 
+🤝For now, I’m looking to collaborate on any Ruby on Rails project, part-time/full-time contracts or just tasks in order to boost your business and help you out with saving precious time. 
 
 Reach me out -> 📫Email: dariusprahanca@gmail.com
                 💬LinkedIn: https://www.linkedin.com/in/darius-prahanca-a0967116b/
