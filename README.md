@@ -1,4 +1,4 @@
-👋 Hey, I’m @wardprahanca🛡️ and I am interested in tech, nature and real estate with more than 3 years professional experience in web development with Ruby on Rails.
+👋 Hey, I’m darius🛡️ and I am interested in tech, nature and real estate with almost 4 years of professional experience in web development with Ruby on Rails.
 
 I’m currently learning Javascript, React and trying Hotwire and Stimulus with Ruby on Rails 🤖
 
